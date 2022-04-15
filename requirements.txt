@@ -9,7 +9,6 @@ cffi==1.15.0
 chardet==4.0.0
 charset-normalizer==2.0.7
 colorama==0.4.4
-cryptography==35.0.0
 cycler==0.11.0
 debugpy==1.5.1
 decorator==5.1.0
